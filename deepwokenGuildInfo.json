@@ -1,0 +1,5 @@
+const descriptions = {
+    "Guild One": "Description One",
+    "Guild Two": "Description Two",
+    "Guild Three": "Description Three"
+};
